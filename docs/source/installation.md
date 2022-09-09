@@ -1,23 +1,23 @@
 Installation
 ============
 
-**my-package** supports Python >= 3.7.
+**citesting** supports Python >= 3.7.
 
 ## Installing with `pip`
 
-**my-package** is available [on PyPI](https://pypi.org/project/my-package/). Just run
+**citesting** is available [on PyPI](https://pypi.org/project/citesting/). Just run
 
 ```bash
-pip install my-package
+pip install citesting
 ```
 
 ## Installing from source
 
-To install **my-package** from source, first clone [the repository](https://github.com/allenai/python-package-template):
+To install **citesting** from source, first clone [the repository](https://github.com/espenhgn/citesting):
 
 ```bash
-git clone https://github.com/allenai/python-package-template.git
-cd python-package-template
+git clone https://github.com/espenhgn/citesting.git
+cd citesting
 ```
 
 Then run

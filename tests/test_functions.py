@@ -1,5 +1,5 @@
-import citesting.citesting as ci
 import pytest
+import citesting.citesting as ci
 
 
 def test_ci_f_0():

@@ -40,3 +40,7 @@ sphinx-autodoc-typehints
 
 # For parsing and comparing version numbers.
 packaging
+
+
+# some silly package that doesnt exist
+sillypackage123
